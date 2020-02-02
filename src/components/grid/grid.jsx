@@ -22,9 +22,7 @@ const renderData = (data) => data.map(v => <Table.Row>
 </Table.Row>
 )
 
-
 function Grid(props) {
-  // props.onGridReady();
   console.log(props)
   return (
     <Table celled>

@@ -1,9 +1,3 @@
-/* eslint-disable no-undef */
-/* eslint-disable no-process-env */
-
-/**
- * @module store
- */
 
 import { createStore, applyMiddleware, compose } from 'redux';
 import thunkMiddleware from 'redux-thunk';
