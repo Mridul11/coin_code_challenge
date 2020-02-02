@@ -21,13 +21,3 @@ npm start
 npm run build
 ```
 
-#### Docker Build
-```
-docker build . -t achyut/cmc-docker
-```
-
-#### Docker Run
-```
-docker run -p 8080:80 achyut/cmc-docker
-```
-
