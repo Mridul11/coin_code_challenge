@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Features:
-- This application is displays Crypto Currencies in Tabular and Graphical Format.
+- This application displays Crypto Currencies in Tabular and Graphical Format.
 
 
 #### Install
