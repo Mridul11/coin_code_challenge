@@ -1,0 +1,17 @@
+@import "./../../styles/variables.scss";
+
+.navbar {
+	background-color: $color-header-background-primary !important;
+}
+
+.navbar-item {
+	color: $color-header-text-primary !important;
+	a {
+		color: $color-header-text-primary !important;
+	}
+	
+}
+
+.header-padding {
+	padding-top: 75px;
+}

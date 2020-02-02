@@ -1,0 +1,14 @@
+@import "./../../styles/variables.scss";
+
+.pagination-select {
+	background: inherit;
+	border: 1px solid $color-header-text-primary;
+	height: 27px;
+	font-weight: 100;
+	font-size: 14px;
+	padding-left: 4px;
+}
+
+select {
+	color: $color-header-text-primary
+}

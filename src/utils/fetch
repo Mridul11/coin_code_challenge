@@ -1,0 +1,8 @@
+/* eslint-env node */
+import Promise from './promise';
+
+global.Promise = global.Promise || Promise;
+
+// we need to use require as babel will juggle the order
+// in which imports are loaded
+require('isomorphic-fetch'); // eslint-disable-line
