@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 import { Label, Menu, Table } from 'semantic-ui-react';
 
 function renderHeader(data) {
