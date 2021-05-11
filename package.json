@@ -10,7 +10,7 @@
     "classnames": "^2.2.5",
     "font-awesome": "^4.7.0",
     "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "promise-polyfill": "^6.0.2",
     "prop-types": "^15.6.2",
     "react": "^16.12.0",
